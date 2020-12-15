@@ -3,10 +3,12 @@
 
 **1. Git Bush复制、粘贴**  
 复制：Ctrl + ins  
-粘贴：Shift + ins  
+粘贴：Shift + ins 
+
 **2. Github新建项目文件夹**   
 ①名称后添加/,将显示为文件夹    
 ②文件夹不能为空，添加一个README.md后commit，即可创建文件夹  
+
 **3. Github README.md添加图片**   
 本文使用相对路径的方法      
 ①建立README.md同级文件夹  
