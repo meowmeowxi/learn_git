@@ -15,3 +15,6 @@
 ②上传图片至文件夹  
 ③README.md引用 `![vue页面](assets/vue-helloworld.png)`  
 其中assets为文件夹名称，vue-helloworld为图片名称
+
+**4. Github markdown教程**   
+https://docs.github.com/cn/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax
